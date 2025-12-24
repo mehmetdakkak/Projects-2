@@ -263,7 +263,6 @@ dependencies {
 - [ ] Anlık mesajlaşma (Firebase Realtime Database)
 - [ ] Sesli/görüntülü arama
 - [ ] Etkinlik fotoğrafları
-- [ ] Premium üyelik sistemi
 - [ ] Turnuva organizasyonu
 - [ ] Spor tesisi rezervasyonu
 - [ ] Fitness takibi entegrasyonu
