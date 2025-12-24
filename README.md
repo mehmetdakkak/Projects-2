@@ -290,6 +290,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
   <b>⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐</b>
 </p>
 
-<p align="center">
-  Made with ❤️ in Turkey 🇹🇷
 </p>
